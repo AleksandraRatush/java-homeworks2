@@ -15,8 +15,8 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Руководство по установке IntelliJ IDEA] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
-* Исходный код класса [Main] (https://github.com/AleksandraRatush/java-homeworks2/blob/2f39c320feb7200e1aad63c5a3121ca8ea564b9c/src/Main.java)
+* [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+* Исходный код класса [Main](https://github.com/AleksandraRatush/java-homeworks2/blob/2f39c320feb7200e1aad63c5a3121ca8ea564b9c/src/Main.java)
 
 
 
